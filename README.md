@@ -4,8 +4,11 @@ This Unity project allows a user to view USD assets using XR devices like the Me
 
 ## Setup
 ### Prereqs
-- Unity 2020.3.26f1 with Android Build Support (Android SDK & NDK tools; OpenJDK)
-- Download and unzip USD files from `/lus/grand/projects/visualization/ortizj/FourStitchedUsds.zip`
+* Unity 2020.3.26f1 with:
+  * Android Build Support (Android SDK & NDK tools; OpenJDK)
+  * Universal Windows Platform Build Support
+  * Windows Build Support (IL2CPP)
+* Download and unzip USD files from `/lus/grand/projects/visualization/ortizj/FourStitchedUsds.zip`
 
 ### Install
 1. Clone this project, then ["Add an existing project from disk"](https://docs.unity3d.com/hub/manual/AddProject.html#add-an-existing-project-from-your-disk) with Unity Hub
@@ -18,3 +21,9 @@ This Unity project allows a user to view USD assets using XR devices like the Me
 
 ## Play in XR
 For now, this app has been tested only on a Meta Quest 2 tethered via USB-C. Assuming the Oculus app is installed on your machine and you have added your Quest device, simply press the main `Play` button of the Unity editor to send it to your Quest.
+
+### Controls
+- Left grip reverses the animiation when pointing at data
+- Left thumbstick controls user XZ translation
+- Right grip plays/pauses the animation when pointing at data
+- Right stick rotates user
