@@ -9,6 +9,8 @@ This Unity project allows a user to view USD assets using XR devices like the Me
   * Universal Windows Platform Build Support
   * Windows Build Support (IL2CPP)
 * Download and unzip USD files from `/lus/grand/projects/visualization/ortizj/FourStitchedUsds.zip`
+* If using a Meta Quest, download and install the Oculus App (under *Link Cable* in https://store.facebook.com/quest/setup/ or directly from https://www.oculus.com/download_app/?id=1582076955407037)
+  * Use a compatible USB-C cable: https://store.facebook.com/help/quest/articles/headsets-and-accessories/oculus-link/oculus-link-compatibility/
 
 ### Install
 1. Clone this project, then ["Add an existing project from disk"](https://docs.unity3d.com/hub/manual/AddProject.html#add-an-existing-project-from-your-disk) with Unity Hub
