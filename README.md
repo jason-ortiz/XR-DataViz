@@ -1,6 +1,6 @@
 # XR Data Viz
 ## Intro
-This Unity project allows a user to view USD assets using XR devices like the Meta Quest 2.
+This Unity project allows a user to view USD assets using XR devices like the Meta Quest 2. View IEEE VIS LDAV 2022 Poster and Summary paper here: https://virtual.ieeevis.org/year/2022/poster_a-ldav-posters-1003.html
 
 ## Setup
 ### Prereqs
